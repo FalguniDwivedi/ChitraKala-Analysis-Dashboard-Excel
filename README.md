@@ -19,7 +19,7 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 
 ### Data Processing
 - **Cleaning:**
-   Spell check and correct errors.
+  - Spell check and correct errors.
   - Remove duplicates.
   - Handle missing values (imputation or removal).
   - Standardize formats (dates, text case, remove extra spaces).
