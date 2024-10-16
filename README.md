@@ -50,16 +50,16 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 - **Target Platforms:** Amazon and Myntra remain the top channels for driving sales.
 - **Target States:** Maharashtra, Karnataka, and Uttar Pradesh showed the highest sales engagement.
 
-## Visualization and Design Choices
+## Recommendations
+- Implement special offers, coupon cards, and targeted advertisements from January to April on high-performing platforms such as Amazon and Myntra, focusing on the preferences of adult women to drive sales during this high-traffic period.
+- Prioritize campaigns in Maharashtra, Karnataka, and Uttar Pradesh, as these states show the most potential for boosting sales.
+
+ ## Visualization and Design Choices
 - **Bar Charts:** Used to represent sales trends over months and show the performance of sales channels and top-selling states.
 - **Pie Charts:** Display the contribution of men versus women in sales and the status of orders (delivered, refunded, returned, canceled). These charts effectively show proportions and percentages.
 - **Line and Bar Combo Chart:** Combines bars (for order count) and lines (for sales amount), providing a clear picture of how order volume correlates with revenue.
 - **Filters:** Allow users to filter data by month, channel, and category.
 - **Color Palette:** A blue and orange theme is utilized to maintain clarity and highlight key metrics.
-
-## Recommendations
-- Implement special offers, coupon cards, and targeted advertisements from January to April on high-performing platforms such as Amazon and Myntra, focusing on the preferences of adult women to drive sales during this high-traffic period.
-- Prioritize campaigns in Maharashtra, Karnataka, and Uttar Pradesh, as these states show the most potential for boosting sales.
 
 This dashboard provides a comprehensive overview of the key performance indicators and will help the business improve overall sales strategies moving forward.
 ```
