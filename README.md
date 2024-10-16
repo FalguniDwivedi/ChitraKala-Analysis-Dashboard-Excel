@@ -1,6 +1,4 @@
 # Sales Analysis Dashboard 
-**CASE STUDY: Analyzing Sales Performance for ChitraKala Fashion Retail**
-
 
 ## Objective
 The primary goal of the **ChitraKala Sales Analysis 2024** dashboard is to provide insights into sales performance, order status, and customer demographics for the year 2024. This dashboard assists business decision-makers in identifying key trends in sales channels, top-selling products, and the demographic segments contributing most to purchases. By visualizing this data, businesses can optimize sales strategies, monitor customer behavior, and drive growth.
