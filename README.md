@@ -16,7 +16,6 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 ## Complete Data Analysis Process
 
 ### Data Collection
-- Gathered transactional sales data for the year 2024.
 
 ### Data Processing
 - **Cleaning:**
@@ -62,6 +61,13 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 - **Color Palette:** A blue and orange theme is utilized to maintain clarity and highlight key metrics.
 
 This dashboard provides a comprehensive overview of the key performance indicators and will help the business improve overall sales strategies moving forward.
-```
+
+## Contact
+- **[Linkedin]** (https://www.linkedin.com/in/falguni-dwivedi-906a76323/)
+
+
+
+
+
 
 
