@@ -38,7 +38,7 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 ### Data Visualization
 - Designed interactive and visually appealing dashboards to convey insights.
 
-![ChitraKala Sales Dashboard] ![ChitraKala_Sales_Analysis_Dashboard](https://github.com/user-attachments/assets/cdb1eca4-2ba2-4c55-904f-273c98d3e34c)
+ ![ChitraKala_Sales_Analysis_Dashboard](https://github.com/user-attachments/assets/cdb1eca4-2ba2-4c55-904f-273c98d3e34c)
 
 ## Key Insights
 - **Top Sales Months:** March recorded the highest sales, followed by February.
