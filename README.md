@@ -16,7 +16,7 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 ## Complete Data Analysis Process
 
 ### Data Collection
-
+- Collected the data set from an online resource.
 ### Data Processing
 - **Cleaning:**
   - Spell check and correct errors.
