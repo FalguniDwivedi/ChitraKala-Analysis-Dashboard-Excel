@@ -63,7 +63,7 @@ The dataset used in this dashboard comprises transactional sales data for the ye
 This dashboard provides a comprehensive overview of the key performance indicators and will help the business improve overall sales strategies moving forward.
 
 ## Contact
-- **[Linkedin]** (https://www.linkedin.com/in/falguni-dwivedi-906a76323/)
+- **[Linkedin]** (https://www.linkedin.com/feed/update/urn:li:activity:7251514500925775875/)
 
 
 
